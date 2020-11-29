@@ -3,7 +3,7 @@ import AboutComponent from 'components/about/AboutComponent';
 import 'App.css';
 
 import {
-  BrowserRouter as Router,
+  HashRouter,
   Switch,
   Route
 } from "react-router-dom";
@@ -11,16 +11,16 @@ import {
 function App() {
   return (
     <div className="App">
-        <Router>
+        <HashRouter basename='/'>
             <Switch>
-            <Route exact path="/">
-                <MapComponent />
-            </Route>
-            <Route path="/about">
-                <AboutComponent />
-            </Route>
+              <Route exact path="/">
+                  <MapComponent />
+              </Route>
+              <Route path="/about">
+                  <AboutComponent />
+              </Route>
             </Switch>
-        </Router>
+        </HashRouter>
     </div>
   );
 }
