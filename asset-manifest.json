@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/native-tour/static/css/main.b64d85d1.chunk.css",
-    "main.js": "/native-tour/static/js/main.f0e707bf.chunk.js",
-    "main.js.map": "/native-tour/static/js/main.f0e707bf.chunk.js.map",
+    "main.js": "/native-tour/static/js/main.fa886a1f.chunk.js",
+    "main.js.map": "/native-tour/static/js/main.fa886a1f.chunk.js.map",
     "runtime-main.js": "/native-tour/static/js/runtime-main.01cdceab.js",
     "runtime-main.js.map": "/native-tour/static/js/runtime-main.01cdceab.js.map",
     "static/css/2.fa130c53.chunk.css": "/native-tour/static/css/2.fa130c53.chunk.css",
-    "static/js/2.29821b86.chunk.js": "/native-tour/static/js/2.29821b86.chunk.js",
-    "static/js/2.29821b86.chunk.js.map": "/native-tour/static/js/2.29821b86.chunk.js.map",
+    "static/js/2.cd422a3f.chunk.js": "/native-tour/static/js/2.cd422a3f.chunk.js",
+    "static/js/2.cd422a3f.chunk.js.map": "/native-tour/static/js/2.cd422a3f.chunk.js.map",
     "static/js/3.1509251a.chunk.js": "/native-tour/static/js/3.1509251a.chunk.js",
     "static/js/3.1509251a.chunk.js.map": "/native-tour/static/js/3.1509251a.chunk.js.map",
     "index.html": "/native-tour/index.html",
     "static/css/2.fa130c53.chunk.css.map": "/native-tour/static/css/2.fa130c53.chunk.css.map",
     "static/css/main.b64d85d1.chunk.css.map": "/native-tour/static/css/main.b64d85d1.chunk.css.map",
-    "static/js/2.29821b86.chunk.js.LICENSE.txt": "/native-tour/static/js/2.29821b86.chunk.js.LICENSE.txt"
+    "static/js/2.cd422a3f.chunk.js.LICENSE.txt": "/native-tour/static/js/2.cd422a3f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01cdceab.js",
     "static/css/2.fa130c53.chunk.css",
-    "static/js/2.29821b86.chunk.js",
+    "static/js/2.cd422a3f.chunk.js",
     "static/css/main.b64d85d1.chunk.css",
-    "static/js/main.f0e707bf.chunk.js"
+    "static/js/main.fa886a1f.chunk.js"
   ]
 }
