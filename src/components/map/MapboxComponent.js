@@ -38,7 +38,7 @@ class MapboxComponent extends Component {
                             this.setState({selectedLocation: location});
                         }}
                     >
-                        <img src="/marker.svg" alt="Location Icon" />
+                        <img src="marker.svg" alt="Location Icon" />
                     </button>
                 </Marker>
             ))}
@@ -51,7 +51,7 @@ class MapboxComponent extends Component {
                     }}
                 >
                     <div className="location-popup">
-                        <img src={'/places/'+this.state.selectedLocation.image} alt={this.state.selectedLocation.title} />
+                        <img src={'places/'+this.state.selectedLocation.image} alt={this.state.selectedLocation.title} />
                         <h2>{this.state.selectedLocation.title}</h2>
                         <p>{this.state.selectedLocation.description}</p>
                     </div>
