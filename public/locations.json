@@ -17,6 +17,15 @@
       },
       "title": "Тараканівський форт",
       "description": "тараканівський форт.."
+    },
+    {
+      "image": "klevan.jpg",
+      "coords": {
+        "latitude": 50.7424369,
+        "longitude": 25.9665084
+      },
+      "title": "Клеванський замок",
+      "description": "...."
     }
   ]
 }
