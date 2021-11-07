@@ -2,3 +2,23 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.wrapper {
+  display: flex;
+}
+
+.sidebar {
+  background: #90caf9;
+  width: 25vw;
+  padding: 20px;
+}
+
+.locationsList {
+  overflow: scroll;
+  max-height: 650px;
+}
+
+.content {
+  width: 75vw;
+  height: 100vh;
+}

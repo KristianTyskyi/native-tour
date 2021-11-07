@@ -1,5 +1,4 @@
-import MapComponent from 'components/map/MapComponent';
-import AboutComponent from 'components/about/AboutComponent';
+import MapPageComponent from 'pages/map/MapPageComponent';
 import 'App.css';
 
 import {
@@ -14,10 +13,7 @@ function App() {
         <HashRouter basename='/'>
             <Switch>
               <Route exact path="/">
-                  <MapComponent />
-              </Route>
-              <Route path="/about">
-                  <AboutComponent />
+                  <MapPageComponent />
               </Route>
             </Switch>
         </HashRouter>
